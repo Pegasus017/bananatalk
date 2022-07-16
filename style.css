@@ -1,0 +1,11 @@
+@import "reset.css";
+
+/* components */
+@import "components/statusbar.css";
+
+
+body{
+    border: 2px solid black;
+    width: 500px;
+    height: 900px;
+}
