@@ -1,0 +1,8 @@
+.bottom__menu{
+    border: 1px solid red;
+    position: fixed;
+    top: 780px;
+    width:inherit;
+    height: 45px;
+}
+

@@ -1,0 +1,25 @@
+.uppermenu{
+    border: 1px solid red;
+    margin: 20px 0px;
+    width: inherit;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.uppermenu>h1{
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.uppermenu__icons{
+    text-align: center;
+    font-size: 20px;
+    color: var(--grey);
+}
+
+.uppermenu__icons>i{
+    margin-left: 10px;
+}

@@ -1,11 +1,21 @@
 @import "reset.css";
 
-/* components */
-@import "components/statusbar.css";
 
+/* components */
+@import "components/var.css";
+@import "components/statusbar.css";
+@import "components/uppermenu.css";
+@import "components/bottom__menu.css";
+
+
+/* pages */
+@import "styles/login.css";
+@import "styles/friends.css";
 
 body{
     border: 2px solid black;
-    width: 500px;
-    height: 900px;
+    width: 440px;
+    height: 770px;
+    padding: 30px 10px;
+    box-sizing: content-box;
 }
